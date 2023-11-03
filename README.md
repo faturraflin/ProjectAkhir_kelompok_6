@@ -31,3 +31,11 @@ Dapat menghapus layanan
 Fungsionalitas
 Register user : apabila user tidak memiliki akun makan dapat melakukan registrasi terlebih dahulu dengan memasukan nama dan password
 Login user : apabila user telah memiliki akun maka dapat langsung melakukan login dan memilih layanan yang diinginkan
+
+Demonstrasi :
+
+Tampilan awal program yang menampilkan pilihan yang bisa dipilih user
+![WhatsApp Image 2023-11-03 at 22 43 34](https://github.com/faturraflin/ProjectAkhir_kelompok_6/assets/100887527/26bb5bfa-bd65-4708-bdd2-237566a1eb2e)
+
+Jika memilih opsi ya maka akan diarahkan ke page login, berikut tampilannya
+![WhatsApp Image 2023-11-03 at 22 44 33](https://github.com/faturraflin/ProjectAkhir_kelompok_6/assets/100887527/6d1d3b63-e740-4133-8298-037044822d22)
